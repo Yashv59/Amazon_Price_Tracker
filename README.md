@@ -27,10 +27,3 @@ Make sure you have the following installed:
 - Node.js
 - npm
 
-### Backend Setup
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   cd amazon-price-tracker/backend
